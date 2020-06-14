@@ -1,0 +1,12 @@
+.header{
+    height: 40vh;
+    background: url(../img/1.jpg) no-repeat;
+    background-size: cover;
+}
+.pricing:hover .plan-name, .pricing:hover .plan-name .title{
+    background-color: #3A6CAB !important;
+    color: white !important;
+}
+.hosting-rate{
+    border: 1px solid #3A6CAB !important;
+}

@@ -1,0 +1,48 @@
+.header{
+    height: 40vh;
+    background: url(../img/1.jpg) no-repeat;
+    background-size: cover;
+}
+
+
+.features{
+    background-color: #f2fcfe;
+}
+.collapse-list{
+    font-size: 20px !important;
+    color: #49d03a;
+}
+
+.collapse-list-link {
+    font-weight: 600;
+    font-size: 22px;
+    border-bottom: #c9d4df solid 1px;
+    color: #4e5f83 !important;
+}
+.collapse-list-text{
+color: #4e5f83;
+}
+.form-control{
+    font-size: 1.5rem;
+    height: calc(1.5em + 1.5rem + 2px);
+}
+select.form-control{
+    width: auto;
+}
+.domain-name-img{
+    height:6rem
+}
+.fa-arrow-right{
+    transition: 1s;
+}
+.login-btn:hover .fa-arrow-right{
+    transform: translateX(8px);
+}
+
+.bg-purple{
+    background-color: purple;
+}
+
+#price td a, #price, .domain-table{
+    font-size: 1rem !important;
+}
